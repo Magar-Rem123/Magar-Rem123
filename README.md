@@ -1,8 +1,9 @@
-### Hi there 👋
+<h1> Hi, I am Rem Bdr. Gharti Magar 👋</h1>
+![GitHub followers](https://img.shields.io/github/followers/Magar-Rem123?style=social)
 
 <!--
-**Magar-Rem123/Magar-Rem123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Rem Bdr. Gharti Magar/Rem Bdr. Gharti Magar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h2 align:"center"><img src = ""C:\Users\Vision.ADMIN\Desktop\my_doc\a.jpeg </h2> -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
